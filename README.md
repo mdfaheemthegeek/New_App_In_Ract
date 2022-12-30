@@ -1,1 +1,1 @@
-# New_App_In_Ract
+# News_App_In_React
